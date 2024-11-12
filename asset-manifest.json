@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.284a0e01.css",
+    "main.js": "/static/js/main.cc7b59f1.js",
+    "static/media/back.png": "/static/media/back.b38144ebf5e7e4160e7b.png",
+    "static/media/ProtezBack.png": "/static/media/ProtezBack.29de8822e15b39aa4ffa.png",
+    "static/media/footerBack.png": "/static/media/footerBack.45c90d9c50dcb638782c.png",
+    "static/media/KosmOb.jpg": "/static/media/KosmOb.68e278f09fe60c538fe1.jpg",
+    "static/media/Sert3.jpg": "/static/media/Sert3.8b53d7662222d2541951.jpg",
+    "static/media/Sert1.jpg": "/static/media/Sert1.711701172e45ff4d7f88.jpg",
+    "static/media/ProbGilzaImg.jpg": "/static/media/ProbGilzaImg.edba74abdf280f9fc523.jpg",
+    "static/media/Sert2.jpg": "/static/media/Sert2.e715e6ca45e63e047e5b.jpg",
+    "static/media/IzgotovImg.jpg": "/static/media/IzgotovImg.d761eb40147f99d29009.jpg",
+    "static/media/OsmotrImg.jpg": "/static/media/OsmotrImg.0a857a45dc103f8359a2.jpg",
+    "static/media/hand.png": "/static/media/hand.35aa8e2453dcc27637c6.png",
+    "static/media/wired-glove.png": "/static/media/wired-glove.f2699d2ca0818039f98d.png",
+    "static/media/bionic.png": "/static/media/bionic.bd63b4bca3f4caaddedb.png",
+    "static/media/robot-leg.png": "/static/media/robot-leg.1a90224e493ab1dcca93.png",
+    "static/media/prosthetic.png": "/static/media/prosthetic.d246db4cb7c5064be0c2.png",
+    "static/media/blood-donation.png": "/static/media/blood-donation.7a012d3d94a3e0943f0a.png",
+    "static/media/PharmLogo.svg": "/static/media/PharmLogo.c5c8de843c5e5800c9e77c71378f7f92.svg",
+    "index.html": "/index.html",
+    "main.284a0e01.css.map": "/static/css/main.284a0e01.css.map",
+    "main.cc7b59f1.js.map": "/static/js/main.cc7b59f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.284a0e01.css",
+    "static/js/main.cc7b59f1.js"
+  ]
+}
